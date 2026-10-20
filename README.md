@@ -9,3 +9,5 @@ Lokalnie: otwórz `index.html` w przeglądarce.
 - Opcjonalny głos lektora (po polsku, jeśli przeglądarka ma polski głos) i sygnał w połowie interwału.
 - Pauza / dalej / wstecz, skróty: spacja, strzałki, Esc.
 - Ekran nie gaśnie w trakcie (Wake Lock, gdzie przeglądarka na to pozwala).
+
+Aplikacja iOS (Flutter) z obsługą Apple Zdrowie i muzyki w tle: zobacz [`app/`](app/README.md).
