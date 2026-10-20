@@ -2,14 +2,8 @@ name: app
 on:
   push:
     branches: [main]
-    paths: ['app/**', '.github/workflows/app.yml']
   pull_request:
-    paths: ['app/**', '.github/workflows/app.yml']
   workflow_dispatch:
-
-defaults:
-  run:
-    working-directory: app
 
 jobs:
   test:
